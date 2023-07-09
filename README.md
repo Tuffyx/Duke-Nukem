@@ -1,0 +1,3 @@
+Duke3D is quite possibly the best single player FPS of all time. Though outdated today, it was downright incredible when it released and a quantum leap over existing games. In single player it easily beats Quake but can't even compare to Quake in multi-player. For a sprite based engine, it did push its capabilities as far as it could have. Gameplay and interactivity wise, it is unmatched for what it did during its time.
+
+If only 3D Realms are today what they were in 1996. Quite possibly the biggest pool of talent on the planet, slowly dispersed to other companies and using their talent effectively there. PC Gamer previews of Duke4ever said that the game was very much like the old duke. Lets hope it is.
